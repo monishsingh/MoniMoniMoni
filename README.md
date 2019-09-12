@@ -21,3 +21,11 @@ git push
 ```
 git pull
 ```
+
+```
+git commit
+```
+
+```
+git checkout
+```
